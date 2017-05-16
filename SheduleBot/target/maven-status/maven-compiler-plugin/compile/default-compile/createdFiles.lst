@@ -1,0 +1,12 @@
+XMLtoJPG\main.class
+DBPackage\JavaToMySQL.class
+XMLtoJPG\ParseXML.class
+XMLtoJPG\Day.class
+BotPackage\Keyboard.class
+BotPackage\Parser.class
+XMLtoJPG\Pair.class
+BotPackage\main.class
+BotPackage\Bot.class
+BotPackage\Strings.class
+XMLtoJPG\Shedule.class
+Services\LoggerA.class
